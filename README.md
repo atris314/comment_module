@@ -33,7 +33,7 @@ composer require joshbrw/laravel-module-installer
 ```
 4. Install the Blog Module
 ```php
-composer require atris314/laravel-comment-module
+composer require atris314/comment-module
 ```
 After installation, the module will be placed inside the ``` Modules/Comment ``` directory and automatically registered.
 
