@@ -10,6 +10,7 @@
         }
     ],
     "extra": {
+        "installer-name": "Comment",
         "laravel": {
             "providers": [],
             "aliases": {
