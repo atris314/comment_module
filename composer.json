@@ -1,5 +1,5 @@
 {
-    "name": "atris314/laravel-comment-module",
+    "name": "atris314/comment",
     "description": "A reusable comment module for Laravel.",
     "type": "laravel-module",
     "license": "MIT",
