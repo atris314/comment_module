@@ -1,10 +1,11 @@
 {
-    "name": "nwidart/comment",
-    "description": "",
+    "name": "atris314/laravel-comment-module",
+    "description": "A reusable comment module for Laravel.",
+    "type": "laravel-module",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "farinaz haghighi",
+            "email": "farinaz.haghighi314@gmail.com"
         }
     ],
     "extra": {
@@ -17,14 +18,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Modules\\Comment\\": "app/",
-            "Modules\\Comment\\Database\\Factories\\": "database/factories/",
-            "Modules\\Comment\\Database\\Seeders\\": "database/seeders/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Modules\\Comment\\Tests\\": "tests/"
+            "Modules\\Base\\": ""
         }
     }
 }
+

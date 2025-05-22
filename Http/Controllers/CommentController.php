@@ -1,11 +1,11 @@
 <?php
 
-namespace Modules\Comment\app\Http\Controllers;
+namespace Modules\Comment\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
-use Modules\Comment\app\Models\Comment;
+use Modules\Comment\Models\Comment;
 
 class CommentController extends Controller
 {

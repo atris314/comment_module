@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Comment\app\Providers;
+namespace Modules\Comment\Providers;
 
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;

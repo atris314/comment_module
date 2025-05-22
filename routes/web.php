@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Modules\Comment\app\Http\Controllers\CommentController;
+use Modules\Comment\Http\Controllers\CommentController;
 
 Route::prefix('admin')->middleware('auth')->group(function () {
     // Comments routes

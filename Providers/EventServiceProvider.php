@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Comment\app\Providers;
+namespace Modules\Comment\Providers;
 
 use Illuminate\Foundation\Support\Providers\EventServiceProvider as ServiceProvider;
 
